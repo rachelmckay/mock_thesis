@@ -1,18 +1,4 @@
-hello. Here is a trivial change.
 
-Adding another line...
 
-Checking.
-
-<<<<<<< HEAD
-Rachel, Amélie, Thomas and Florence are going to write an A-MA-ZING thesis. 
-=======
-
-Altight Here some changes from THomas
-
->>>>>>> d68035d7acdf7bd2382400c515d9bbcbeccfeb7f
-
-And now Amelie is playing with it
-
-Thomas is trying to create a conflict in this document
+This thesis is really not good Start over!
 
