@@ -1,4 +1,4 @@
-﻿hello. Here is a trivial change.
+hello. Here is a trivial change.
 
 Adding another line...
 
@@ -13,3 +13,6 @@ Altight Here some changes from THomas
 >>>>>>> d68035d7acdf7bd2382400c515d9bbcbeccfeb7f
 
 And now Amelie is playing with it
+
+Thomas is trying to create a conflict in this document
+
