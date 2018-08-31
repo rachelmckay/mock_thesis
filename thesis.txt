@@ -3,3 +3,5 @@ hello. Here is a trivial change.
 Adding another line...
 
 Checking.
+
+Rachel, Amélie, Thomas and Florence are going to write an A-MA-ZING thesis. 
