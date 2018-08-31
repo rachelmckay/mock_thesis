@@ -1,3 +1,5 @@
+### Adding a title to the R code - RM ###
+
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 install.packages("pacman")
 pacman::p_load(tidyverse)
