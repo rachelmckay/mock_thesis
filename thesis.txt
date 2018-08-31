@@ -1,4 +1,16 @@
+<<<<<<< HEAD
+=======
+﻿hello. Here is a trivial change.
+>>>>>>> 2f181412f2662d389d4f0e1c62f09add4f36427d
 
 
+<<<<<<< HEAD
 This thesis is really not good Start over!
+=======
+Checking.
+
+I don't like this thesis
+
+
+>>>>>>> 2f181412f2662d389d4f0e1c62f09add4f36427d
 
